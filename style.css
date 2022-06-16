@@ -102,3 +102,8 @@ a:hover{
 	padding:8px;
 	width:100%;
 }
+
+.my-list li:first-child{
+position:center 300px;
+
+}
